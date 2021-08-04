@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @DLWickremaratne
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dhanith Wickremaratne
+- 🌱 I’m currently learning web app development 
+- 💞️ I’m looking for a intern(Html,CSS,Javasscript,Node.JS)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLWickremaratne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me dhanithlak@gmail.com
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLWickremaratne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
