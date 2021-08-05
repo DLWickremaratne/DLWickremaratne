@@ -4,7 +4,7 @@
 - 📫 How to reach me dhanithlak@gmail.com
 
 
-                                          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLWickremaratne)](https://github.com/DLWickremaratne/DLWickremaratne/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLWickremaratne)](https://github.com/DLWickremaratne/DLWickremaratne/edit/main/README.md)
 
 
 
